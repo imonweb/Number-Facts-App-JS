@@ -1,1 +1,3 @@
-Number Facts App in Vanilla JavaScript
+Number Facts App
+This simple app was written in Vanilla JavaScript using that fetches random facts on any number entered.
+Ajax request using XHR and the Fetch API to make request to http://numbersapi.com
